@@ -1,0 +1,23 @@
+{
+  "name": "forms-api",
+  "version": "0.1.0",
+  "description": "Create, edit, and read user data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathon13/Forms_api.git"
+  },
+  "author": "Jonathon Kissell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonathon13/Forms_api/issues"
+  },
+  "homepage": "https://github.com/Jonathon13/Forms_api#readme",
+  "dependencies": {
+    "micro": "^9.3.3",
+    "micro-router": "^0.1.1"
+  }
+}
